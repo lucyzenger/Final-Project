@@ -1,0 +1,21 @@
+[2025-03-02T03:37:08.192Z] info  code-server 4.96.2 08cbdfbdf11925e8a14ee03de97b942bba7e8a94
+[2025-03-02T03:37:08.199Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-03-02T03:37:08.252Z] info  Using config file /home/ubuntu/.config/code-server/config.yaml
+[2025-03-02T03:37:08.252Z] info  HTTPS server listening on https://0.0.0.0/
+[2025-03-02T03:37:08.252Z] info    - Authentication is enabled
+[2025-03-02T03:37:08.252Z] info      - Using password from /home/ubuntu/.config/code-server/config.yaml
+[2025-03-02T03:37:08.252Z] info    - Using certificate for HTTPS: /home/ubuntu/.config/code-server/selfsigned.crt
+[2025-03-02T03:37:08.253Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[03:37:13] 
+
+
+
+
+[03:37:13] Extension host agent started.
+[03:37:13] [<unknown>][95a9e50c][ExtensionHostConnection] Unknown reconnection token (never seen).
+[03:37:14] [<unknown>][f1040f05][ManagementConnection] Unknown reconnection token (never seen).
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /var/app/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[03:38:36] [<unknown>][86f98a40][ManagementConnection] New connection established.
+[03:38:38] [<unknown>][c8f4e966][ExtensionHostConnection] New connection established.
+[03:38:38] [<unknown>][c8f4e966][ExtensionHostConnection] <11808> Launched Extension Host Process.
